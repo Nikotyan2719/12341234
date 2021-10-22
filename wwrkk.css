@@ -1,6 +1,7 @@
 body{
   margin: 0;
   background: url("https://www.ixbt.online/idata/gtnews/2020/03/[5e73a4b0311bf]/Fe9F5zyMZZGXTPFdbb9I1GdehWmmtRct7m75jfSo.jpeg");
+  background-attachment: fixed;
   font-family: Tahoma;
 }
 .title {
