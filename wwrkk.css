@@ -46,6 +46,7 @@ body{
 .allheroes{
   display: flex;
   height: 170px;
+  width: auto;
   /*justify-content: center;*/
   flex-wrap: wrap;
   flex-basis: 100%;
@@ -53,16 +54,16 @@ body{
 }
 .heroes{
   margin: 10px;
-  width: 120px;
-  height: 150px;
+  width: 115px;
+  height: 145px;
   margin-bottom: 0px;
   background-color: white;
   border: 5px solid #9d0f0f;
   border-radius: 10px;
 }
 .fotoheroes{
-  width: 120px;
-  height: 120px;
+  width: 115px;
+  height: 115px;
   border-radius: 10px;
 }
 .nameheroes{
