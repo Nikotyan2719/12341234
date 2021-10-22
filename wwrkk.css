@@ -54,16 +54,16 @@ body{
 }
 .heroes{
   margin: 10px;
-  width: 115px;
-  height: 145px;
+  width: 114px;
+  height: 144px;
   margin-bottom: 0px;
   background-color: white;
   border: 5px solid #9d0f0f;
   border-radius: 10px;
 }
 .fotoheroes{
-  width: 115px;
-  height: 115px;
+  width: 114px;
+  height: 114px;
   border-radius: 10px;
 }
 .nameheroes{
