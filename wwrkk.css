@@ -1,0 +1,113 @@
+body{
+  margin: 0;
+  background: url("https://www.ixbt.online/idata/gtnews/2020/03/[5e73a4b0311bf]/Fe9F5zyMZZGXTPFdbb9I1GdehWmmtRct7m75jfSo.jpeg");
+  font-family: Tahoma;
+}
+.title {
+  display: flex;
+  width: 200px;
+  height: 90px;
+  text-align: center;
+  justify-content: center;
+  flex-basis: 100%;
+  margin: auto;
+  background-color: #000000;
+  border: 5px solid #9d0f0f;
+  border-radius: 10px;
+}
+
+.heroesjpeg{
+  margin: 0;
+  padding: 0;
+  height: 90px;
+  border-radius: 10px;
+  margin-top: 10px;
+  text-align: center;
+}
+.hjpeg{
+  border-radius: 10px;
+  height: 70px;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+  flex-basis: 100%;
+  justify-content: center;
+}
+.text1{
+  text-align: center;
+  background-color: white;
+  margin-bottom: 20px;
+  color: black;
+  border-top: 5px solid #9d0f0f;
+  border-bottom: 5px solid #9d0f0f;
+}
+.allheroes{
+  display: flex;
+  height: 170px;
+  /*justify-content: center;*/
+  flex-wrap: wrap;
+  flex-basis: 100%;
+  margin: 5px;
+}
+.heroes{
+  margin: 10px;
+  width: 120px;
+  height: 150px;
+  margin-bottom: 0px;
+  background-color: white;
+  border: 5px solid #9d0f0f;
+  border-radius: 10px;
+}
+.fotoheroes{
+  width: 120px;
+  height: 120px;
+  border-radius: 10px;
+}
+.nameheroes{
+  text-align: center;
+  color: #000000;
+  font-size: 15px;
+  margin: 5px;
+  border-bottom: 2px solid #9d0f0f;
+  overflow: auto;
+}
+.atributname{
+  width: auto;
+  height: auto;
+  margin: 0;
+  text-align:center;
+  padding-top:20px;
+}
+.sila{
+  margin:auto;
+  display: flex;
+  background: white;
+  width: 165px;
+  border: 5px solid #9d0f0f;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.lovkost{
+  margin:auto;
+  display: flex;
+  background: white;
+  width: 250px;
+  border: 5px solid #9d0f0f;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+.int{
+  margin:auto;
+  display: flex;
+  background: white;
+  width: 270px;
+  border: 5px solid #9d0f0f;
+  margin-top: 10px;
+  border-radius: 5px;
+}
+
+
+
+
+
